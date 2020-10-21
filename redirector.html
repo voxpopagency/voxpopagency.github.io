@@ -6,7 +6,14 @@
 <body>
   <script>
     
-    console.log("redirect!");
+const queryString = window.location.search;
+console.log(queryString);
+// ?product=shirt&color=blue&newuser&size=m
+
+
+var goToUrl = queryString.substring(1);
+//alert(goToUrl); // shows "oobar"
+window.location.href = goToUrl;
   </script>
 
 </body>
