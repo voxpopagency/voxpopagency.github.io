@@ -4,18 +4,20 @@
   <title>redirect</title>
 </head>
 <body>
-  <script>
-    /*
-const queryString = window.location.search;
-console.log(queryString);
-// ?product=shirt&color=blue&newuser&size=m
-
+<script>
+var queryString = window.location.search;
+console.log(queryString); // ?product=shirt&color=blue&newuser&size=m
 
 var goToUrl = queryString.substring(1);
-//alert(goToUrl); // shows "oobar"
-window.location.href = goToUrl;
-*/
-  </script>
+console.log(goToUrl);
+
+if(goToUrl){
+	window.location.href = goToUrl;
+} else {
+	console.log("NO URL TO GO TO :(");
+};
+
+</script>
 
 </body>
 </html>
