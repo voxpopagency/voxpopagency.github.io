@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"bulkedit-submit"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"ifra",
+				"iframeSrc"
+			],
+			[
+				"find",
+				"findElement\tfind-element"
+			],
+			[
+				"parse",
+				"parsedEmail"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"profil",
+				"profileData"
+			],
+			[
+				"profi",
+				"profileData"
+			],
+			[
+				"tog",
+				"toggleClass\t.toggleClass()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1705,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: orderconfirmed"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: jquery"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/petripottonen/Dropbox/WORK/Github Pages/voxpopagency.github.io"
+	],
+	"file_history":
+	[
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/shopify bulk edit copy normal price to compare price and apply discount percentage.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Shopify Bulk Edit Scripts/ver6.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Shopify Bulk Edit Scripts/ver2.html",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/chrome extension - helper/Petri Chrome Helper Extension.sublime-project",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/chrome extension - helper/style.css",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver 1.html",
+		"/Users/petripottonen/ver9.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver8.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver7.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver6.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver5.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver4.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver3.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Leigh Scott Acuity stuff/ver2.html",
+		"/Users/petripottonen/Dropbox/WORK/Sublime Text Snippets/User/smoothscroll.sublime-snippet",
+		"/Users/petripottonen/ver8.html",
+		"/Users/petripottonen/ver7.html",
+		"/Users/petripottonen/ver6.html",
+		"/Users/petripottonen/ver5.html",
+		"/Users/petripottonen/ver4.html",
+		"/Users/petripottonen/ver3.html",
+		"/Users/petripottonen/ver2.html",
+		"/Users/petripottonen/Dropbox/WORK/Sublime Text Snippets/User/loadscripttag.sublime-snippet",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/petri loop until we have ecommmercedata order confirmed page patryk try catch.html",
+		"/Users/petripottonen/Dropbox/WORK/Sublime Text Snippets/User/SUBLIME SNIPPETS SYMBOLIC LINK DROPBOX BACKUP.TXT",
+		"/Users/petripottonen/Dropbox/WORK/Sublime Text Snippets/User/jquery 2.sublime-snippet",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Squarespace Order Confirmation Tag Scarping.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/patryk order confirmed json polling for Y.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/squarespace loop buttons and give them IDs vanilla.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/fullwidth-blocks 3.0/fullwidth-blocks-production.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Reusable Blocks/reusable blocks 2/reusable blocks 2 VER 0.7.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Reusable Blocks/reusable blocks 2/test.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Reusable Blocks/reusable blocks 2/reusable blocks 2.sublime-project",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Reusable Blocks/reusable blocks 2/reusable blocks 2 VER 0.6.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Reusable Blocks/reusable blocks 2/reusable blocks 2 VER 0.5.js",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Emails/Old Zoho, voxpopagency, petripottonen.com eml backups/support@voxpopagency.com (petripottonen.com ym)/info.txt",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Custom Chrome Extensions/Squarespace 7.0. - 7.1 Migrate Copy-Paster/test.html",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/pitchfork-500-artists.txt",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/pitchfork-500-songs.txt",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/artists.txt",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/test2.txt",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/80s track list.html",
+		"/Users/petripottonen/Dropbox/PERSONAL/CREATIVE/How it Should Work/Spotify Continue button/Test.txt",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/chrome extension - helper/content.js",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/User/domready.sublime-snippet",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/User/find-element.sublime-snippet",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Custom Chrome Extensions/Squarespace 7.0. - 7.1 Migrate Copy-Paster/content2.js",
+		"/Users/petripottonen/Library/Caches/Transmit/F9503EDA-1855-40EE-AD93-A091AAB86711/dev.squarespace.com/drum-pineapple-4b6b/site.region",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/:: Migrate Squaresapce  7.0 to 7.1.js",
+		"/Users/petripottonen/Dropbox/DO NOT MOVE THESE/DO NOT MOVE! - MIKSI.txt",
+		"/Users/petripottonen/Dropbox/SYMBOLIC LINKS/Toimii EHKÄ jos.txt",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code + Tonic Reusable After Effects  Stuff/code + tonic – reusable after assets.txt",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/Facebook Messenger code + tonic (original not JS).html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/autoplaying looping muted video mobile.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Spam-Free Email Links/Product/spam free email 0.7 .html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Digital Download Product Variants (BETA)/codepen.html",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/User/jquery3.sublime-snippet",
+		"/Users/petripottonen/Library/Application Support/Sublime Text 3/Packages/User/jquery.sublime-snippet",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Spam-Free Email Links/Product/spam free email 0.6 .html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/squarespace-plugins/Spam-Free Email Links/spam free email.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/hubspot form iframe set value.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Code Snippets — WIP Plugins — jQuery Scripts Etc/spam free email.html",
+		"/Volumes/Encrypted_Stuff/CASE VASTAAMO/gdpr Google EU removal right to be forgotten.txt",
+		"/Users/petripottonen/Sync/WORK/nettisivut/CHROME EXTENSIONS/Kela Therapist finder project/Kela Therapist Finder Chrome Extension/content.js",
+		"/Users/petripottonen/Sync/WORK/nettisivut/CHROME EXTENSIONS/Kela Therapist finder project/Kela Therapist Finder Chrome Extension/mail.app BCC -proessi käytännössä.txt",
+		"/Users/petripottonen/Sync/WORK/nettisivut/CHROME EXTENSIONS/Kela Therapist finder project/Github Chrome Extension Project/manifest.json",
+		"/Users/petripottonen/Dropbox/My Mac (MacBook-Pro.local)/Documents/CASE VASTAAMO/gdpr Google EU removal right to be forgotten.txt",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/Chrome Extension – Tinder AutoSwipe/content copy.js",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/Chrome Extension – Tinder AutoSwipe/TinderAutoSwipe.sublime-project",
+		"/Users/petripottonen/Dropbox/My Mac (MacBook-Pro.local)/Downloads/everypixel-js-master/t/test.js",
+		"/Users/petripottonen/Dropbox/Symbolic Links old/documents/15 mbp documents/vanhaa/meselogeja0809/mesetlogit/Historia/style.css",
+		"/Users/petripottonen/Dropbox/Symbolic Links old/documents/15 mbp documents/vanhaa/meselogeja0809/mesetlogit/Historia/noooraa_14216015890.html",
+		"/Users/petripottonen/Dropbox/Symbolic Links old/documents/15 mbp documents/vanhaa/meselogeja0809/sarra_keppola@hotmail.com.xml",
+		"/Users/petripottonen/Dropbox/Symbolic Links old/documents/15 mbp documents/vanhaa/meselogeja0809/hennasarriola@hotmail.com.xml",
+		"/Users/petripottonen/Dropbox/WORK/nettisivut/CHROME EXTENSIONS/chrome extension - helper/chrome petri helper extension.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Intents.framework/Versions/A/Headers/INNoteResolutionResult.h",
+		"/Users/petripottonen/Dropbox/toimeentulotuki/asuntolaina/asuntolaina ym asunto.txt",
+		"/Users/petripottonen/Desktop/lerssi/demo/data.html",
+		"/Users/petripottonen/Dropbox/Symbolic Links old/documents/zalando palautus return script chrome extension.js",
+		"/Users/petripottonen/Dropbox/WORK/squarespace-plugins/fullwidth-blocks 3.0/d7fb0003e1f62af682e8fe962a1785fe/gistfile1.txt",
+		"/Users/petripottonen/Library/Caches/Transmit/A8D1900C-7F20-4498-A4FE-4344F0789C3A/dev.squarespace.com/drum-pineapple-4b6b/site.region",
+		"/Users/petripottonen/Dropbox/WORK/Github Pages/Github Desktop/voxpopagency.github.io/voxpopagency.github.io/js/header.js",
+		"/Users/petripottonen/Downloads/html5-boilerplate_v7.3.0/index.html",
+		"/Users/petripottonen/Dropbox/WORK/Code + Tonic/Site Scripts/service link generator js 1.js",
+		"/Users/petripottonen/Downloads/Chinese.Ghost.Story.I.1987.x264.DTS.2AUDIO-WAF-resync (1)-resync.srt",
+		"/Users/petripottonen/Library/Caches/Transmit/79F77F77-3651-4B5F-9522-9F42C2DE9EDC/files.000webhost.com/public_html/code-tonic-orderconfirm.js",
+		"/Users/petripottonen/Dropbox/FACEBOOK & instagram/facebook friendlist clear1.html",
+		"/Users/petripottonen/Dropbox/WORK/client list vox pop jan 2020.html",
+		"/Users/petripottonen/Downloads/transfonter.org-20191224-141958/stylesheet.css",
+		"/Users/petripottonen/Dropbox/WORK/squarespace-plugins/Click tracking/Plugin/vp-click-tracking.js",
+		"/Users/petripottonen/Dropbox/mac old applications list html.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								930
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "voxpopagency github pages.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
